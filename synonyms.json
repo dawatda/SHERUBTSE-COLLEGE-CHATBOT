@@ -1,0 +1,25 @@
+{
+    "PL": ["Programme Leader", "Program Leader", "PL"],
+    "HoD": ["Head of Department", "HoD"],
+    "DAA": ["Dean of Academic Affairs", "DAA"],
+    "MT": ["Module Tutor", "MT"],
+    "MC": ["Module Coordinator", "MC"],
+    "CAC": ["College Academic Committee", "CAC"],
+    "PC": ["Programme Committee", "PC"],
+    "SCM": ["Student Consultative Meeting", "SCM"],
+    "SME": ["Student Module Evaluation", "SME"],
+    "APMR": ["Annual Programme Monitoring Report", "APMR"],
+    "MR": ["Module Report", "MR"],
+    "PBoE": ["Programme Board of Examiners", "PBoE"],
+    "DAC": ["Department Academic Committee", "DAC"],
+    "SG": ["Semester Guide", "SG"],
+    "RUB": ["Royal University of Bhutan", "RUB"],
+    "RCSE": ["Royal Civil Service Examinations", "RCSE"],
+    "His Majesty": ["His Majesty the King", "His Majesty"],
+    "MoE": ["Ministry of Education", "MoE"],
+    "RBP": ["Royal Bhutan Police", "RBP"],
+    "RBA": ["Royal Bhutan Army", "RBA"],
+    "De-suung": ["Desuup", "De-suung"],
+    "COVID": ["COVID-19", "Coronavirus", "COVID"]
+  }
+  
